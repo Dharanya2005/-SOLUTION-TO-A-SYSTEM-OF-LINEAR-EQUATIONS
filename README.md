@@ -31,7 +31,8 @@ print(C)
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-11-29 114637.png>)
+![Screenshot 2023-11-29 114637](https://github.com/Dharanya2005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145742468/44782b01-a9d0-44e1-8ca9-30fd9caddb55)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
